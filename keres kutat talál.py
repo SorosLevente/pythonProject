@@ -1,4 +1,5 @@
-def kicsiny(lista):
+def kicsiny(
+        lista):
     legkisebb = lista[0]
     for i in lista:
         if i < legkisebb:
